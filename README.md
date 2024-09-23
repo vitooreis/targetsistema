@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # targetsistema
 Projeto desenvolvido em Java.
 =======
@@ -16,5 +15,3 @@ CONTATO:
 
 AGRADECIMENTOS:
 Agradeço a oportunidade de poder ingressar ao time Target Sistemas.
-
->>>>>>> 40d38f6 (Informacoes README.md)
