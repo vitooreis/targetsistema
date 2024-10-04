@@ -13,5 +13,3 @@ OBSERVAÇÕES:
 CONTATO:
 +55 (31) 99957-1991 - Vitor Reis
 
-AGRADECIMENTOS:
-Agradeço a oportunidade de poder ingressar ao time Target Sistemas.
